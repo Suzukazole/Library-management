@@ -1,0 +1,30 @@
+15|3|2020|53|Alan Moore|Comics|V for Vendetta
+13|6|2020|47|Khaled Hosseini|Fiction|The Kite Runner
+5|12|2019|38|R. L. Stine|Thriller|Goosebumps: Deep Trouble
+6|4|2019|29|George Orwell|Fiction|1984
+3|8|2019|16|Paula Hawkins|Crime|The Girl On The Train
+7|11|2019|44|Lucy Score|Humor|By a Thread
+4|6|2020|16|Charles Darwin|Science|The Origin of Species
+12|12|2019|53|Suzanne Collins|Fiction|The Hunger Games
+14|9|2019|30|Meghan Quinn|Humor|The Modern Gentleman
+30|8|2019|22|Gillian Flynn|Crime|Sharp Objects
+14|12|2019|24|Marian Keyes|Humor|Grown Ups
+5|5|2020|35|Harlan Coben|Fiction|The Boy from the Woods
+17|3|2019|32|Agatha Christie|Crime|Muder on the Orient Express
+15|10|2019|46|Robert Galbraith|Crime|The Cuckoo's Calling
+12|5|2020|29|Emily Giffin|Fiction|The Lies That Bind
+15|1|2019|44|Angie Thomas|Fiction|The Hate U Give
+3|3|2019|38|Truman Capote|Crime|In Cold Blood
+22|11|2019|37|Robert Galbraith|Crime|The Silkworm
+8|5|2019|49|T. R. Ragan|Fiction|Don't Make a Sound
+25|4|2019|30|Isaac Asimov|Science Fiction|The Foundation
+25|4|2019|30|Isaac Asimov|Science Fiction|Nemesis
+27|6|2020|50|Albert Uderzo|Comics|Asterix
+16|2|2020|34|Dan Brown|Thriller|Deception Point
+12|8|2019|48|Dan Brown|Thriller|Inferno
+9|3|2019|28|Elie Wiesel|Suspense|Night
+1|1|2020|19|Mary Burton|Science|Never Look Back
+8|12|2019|32|Meghan Holloway|Suspense|Hunting Ground
+14|10|2019|43|Fiona Valpy|History|Sea of Memories
+25|7|2019|26|Pierce Brown|Science Fiction|Golden Son
+27|6|2020|27|Suzanne Redfearn|Suspense|In An Instant
